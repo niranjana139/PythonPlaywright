@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1923","test_login_invalid[chromium-3]","tests","2025-12-08","passed","2025-12-08","TestLogin","test_login","",""
+"","2478","test_login_invalid[chromium-4]","tests","2025-12-08","passed","2025-12-08","TestLogin","test_login","",""
+"","1158","test_valid_login[chromium]","tests","2025-12-05","passed","2025-12-05","","allurereportsample","",""
+"","11920","test_login_valid[chromium]","tests","2025-12-08","passed","2025-12-08","TestLogin","test_login","",""
+"","3521","test_valid_login[chromium]","","2025-12-05","passed","2025-12-05","","","",""
